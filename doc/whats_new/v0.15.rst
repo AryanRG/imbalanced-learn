@@ -16,7 +16,7 @@ Bug fixes
   the bootstrap samples used to grow the trees when `sample_weight` or
   `class_weight` were used with scikit-learn >= 1.9, or when `max_samples`
   was set. This led to an over-optimistic `oob_score_`.
-  :pr:`xxx` by :user:`Aryan Ganjoo <AryanRG>`.
+  :pr:`1236` by :user:`Aryan Ganjoo <AryanRG>`.
 
 Enhancements
 ............
